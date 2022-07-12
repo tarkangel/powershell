@@ -21,7 +21,7 @@ $workMusicLink = "https://youtu.be/vfdwtIOD1Vw?t=1"
 $breakMusicLink = "https://youtu.be/00w10A2Vt1Y?t=1"
 $browserName = "opera"
 ```
-For broserName i am using operaGX so the process name in windows is "opera" , yours coud be :
+For browserName i am using operaGX so the process name in windows is "opera" , yours coud be :
 
 firefox
 ```
