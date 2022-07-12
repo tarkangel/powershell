@@ -39,5 +39,5 @@ Stop-Process -Name "chrome"
 And thats it, you just have to run it using this command :
 
 ```
-$scriptPath = "C:Copy/yourscriptpath/here"; .\"pomodoro script.ps1"
+$processName ="Pomodoro" ;$scriptPath = "\\wsl$\Ubuntu-20.04\home\tarkangel\gitRepos\powershell\pomodoro script.ps1"; Start-Job -Name $processName -FilePath $scriptPath
 ```
