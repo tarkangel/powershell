@@ -11,5 +11,5 @@ Start-Sleep -Seconds 1200
 Stop-Process -Name "opera"
 Start-Sleep -Seconds 1
 Start-Process -FilePath $operaPath -ArgumentList $breakMusic
-Start-Sleep -Seconds 300
+Start-Sleep -Seconds 301
 Stop-Process -Name "opera"
