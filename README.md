@@ -47,7 +47,7 @@ microsoft edge
 google chrome 
 ```
 "chrome"
-```
+
 
 And thats it, you just have to run it using this command :
 
@@ -57,4 +57,5 @@ $processName ="Pomodoro" ;$scriptPath = "Your/ScriptPath/yourScript.ps1"; Start-
 
 Or you can just open the folder where you have downloaded the script and right click it and run it with "powershell"
 
--------------------------------------------------------------------------------------------------------------------------------------------------------Tark
+NOTE: To abort the execution of the script press Ctrl + Alt + Sup and go to processes and close all "powershell" running processes.
+------------------------------------------------------------------------------------------------------------------------------------------------Tark
