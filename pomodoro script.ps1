@@ -9,8 +9,8 @@
 
 #$scriptPath = "wsl$\Ubuntu-20.04\home\tarkangel\gitRepos\powershell\pomodoro script.ps1"
 $browserPath = "C:\Users\Angel PC Gamer\AppData\Local\Programs\Opera GX\launcher.exe"
-$workMusicLink = "https://youtu.be/vfdwtIOD1Vw?t=1"
-$breakMusicLink = "https://youtu.be/00w10A2Vt1Y?t=1"
+$workMusicLink = "https://youtu.be/M5QY2_8704o?t=1"
+$breakMusicLink = "https://youtu.be/-8N9UR6OTCs?t=1"
 $browserName = "opera"
 
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
