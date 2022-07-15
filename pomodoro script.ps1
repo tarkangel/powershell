@@ -1,5 +1,6 @@
 ###################################################################################
 #Pomodoro Studying Technique
+#Please read README.md to set up the script
 # to execute your script run this command in powershell -->> "
 # $processName ="Pomodoro" ;$scriptPath = "\\wsl$\Ubuntu-20.04\home\tarkangel\gitRepos\powershell\pomodoro script.ps1"; Start-Job -Name $processName -FilePath $scriptPath
 #to stop the script run this :
