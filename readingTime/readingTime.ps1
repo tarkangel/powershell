@@ -1,4 +1,6 @@
-# to execute your script run this command in powershell -->> "
+# to execute your script ,copy this code in powershell ISE 
+# click on run script
+
 # $processName ="readingTime" ;$scriptPath = "\\wsl$\Ubuntu-20.04\home\tarkangel\gitRepos\powershell\readingTime\readingTime.ps1"; Start-Job -Name $processName -FilePath $scriptPath
 
 
