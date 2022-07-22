@@ -1,4 +1,4 @@
-#################################################################################
+##################################################################################
 # Pomodoro Studying Technique
 # Please read README.md to set up the script
 # to execute your script run this command open PowerShell ISE, paste the whole code
