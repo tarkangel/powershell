@@ -59,7 +59,8 @@ Or you can just open the folder where you have downloaded the script and right c
 
 ### Updates July 22, 2022
 
-I have added a pop up windows that displays a timer during each block, size, color, even font are editable.
+Added a pop up windows that displays a timer during each block, size, color, even font are editable.
+Added a new script that i have already tested in my chrome browser, i know not many people use Opera, you should, this gamer version is really cool Opera Gx
 
 NOTE: To abort the execution of the script press Ctrl + Alt + Sup and go to processes and close all "powershell" running processes.
 ------------------------------------------------------------------------------------------------------------------------------------------------Tark
