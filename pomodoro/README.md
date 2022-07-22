@@ -57,5 +57,9 @@ $processName ="Pomodoro" ;$scriptPath = "Your/ScriptPath/yourScript.ps1"; Start-
 
 Or you can just open the folder where you have downloaded the script and right click it and run it with "powershell"
 
+### Updates July 22, 2022
+
+I have added a pop up windows that displays a timer during each block, size, color, even font are editable.
+
 NOTE: To abort the execution of the script press Ctrl + Alt + Sup and go to processes and close all "powershell" running processes.
 ------------------------------------------------------------------------------------------------------------------------------------------------Tark
