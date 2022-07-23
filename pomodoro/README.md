@@ -6,7 +6,7 @@ This is a powershell script to help you apply pomodoro studying technique.
 Pomodoro studying technique consist in 4 blocks of time for working/studying , each block is 30 mins long
 
 25 min deep focus work/study
-5 min of relax/walk or any complete disconnection activity from yur work/study
+5 min of relax/walk or any complete disconnection activity from your work/study
 
 At the end of the fourth block you must have a 15 min log break
 
