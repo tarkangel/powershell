@@ -49,7 +49,7 @@ google chrome
 "chrome"
 
 
-And thats it, you just have to run it using this command :
+And thats it, you just have to run it in powershell ISE ,copy the whole code and click on run -press F5
 
 ```
 $processName ="Pomodoro" ;$scriptPath = "Your/ScriptPath/yourScript.ps1"; Start-Job -Name $processName -FilePath $scriptPath
