@@ -54,13 +54,13 @@ $Counter_Form.Close()
 }
 
 $browserPath = "C:\Users\Angel PC Gamer\AppData\Local\Programs\Opera GX\launcher.exe"
-$workMusicLink = "https://youtu.be/M5QY2_8704o?t="
-$breakMusicLink = "https://youtu.be/-8N9UR6OTCs?t="
+$workMusicLink = "https://youtu.be/M5QY2_8704o"
+$breakMusicLink = "https://youtu.be/-8N9UR6OTCs"
 $browserName = "opera"
 
 
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
-Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "1")
+Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "?t=1")
 timerWindow(1500)
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
 Start-Process -FilePath $browserPath -ArgumentList $breakMusicLink
@@ -69,7 +69,7 @@ Stop-Process -Name $browserName
 #################################################################
 
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
-Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "1560")
+Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "?t=1500")
 timerWindow(1500) 
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
 Start-Process -FilePath $browserPath -ArgumentList $breakMusicLink
@@ -78,7 +78,7 @@ Stop-Process -Name $browserName
 #################################################################
 
 Stop-Process -Name $browserName
-Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "3000")
+Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "?t=3000")
 timerWindow(1500)
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
 Start-Process -FilePath $browserPath -ArgumentList $breakMusicLink
@@ -87,7 +87,7 @@ Stop-Process -Name $browserName
 #################################################################
 
 Stop-Process -Name $browserName
-Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "4500")
+Start-Process -FilePath $browserPath -ArgumentList ($workMusicLink + "?t=4500")
 timerWindow(1500)
 Stop-Process -Name $browserName ; Start-Sleep -Seconds 2
 Start-Process -FilePath $browserPath -ArgumentList $breakMusicLink
