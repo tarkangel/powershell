@@ -54,8 +54,8 @@ $Counter_Form.Close()
 }
 
 $browserPath = "C:\Users\Angel PC Gamer\AppData\Local\Programs\Opera GX\launcher.exe"
-$workMusicLink = "https://youtu.be/M5QY2_8704o"
-$breakMusicLink = "https://youtu.be/-8N9UR6OTCs"
+$workMusicLink = "https://youtu.be/l9nh1l8ZIJQ"
+$breakMusicLink = "https://youtu.be/lFcSrYw-ARY"
 $browserName = "opera"
 
 
