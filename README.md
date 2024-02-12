@@ -1,0 +1,1 @@
+This powershell script helps to apply pomodoro study method by opening your browser in a specific video with music to work and after 25 min and rest 5min , you can specify which browser you want to use and the url of the video you will be using .
